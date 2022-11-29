@@ -60,8 +60,6 @@ OBS: No sistema Linux -> -RM -RF -> R de recursivo (dentro da pasta, pode existi
 
 ·     **GIT REMOTE ADD ORIGIN “ENDEREÇO HTTPS GERADO GITHUB” ->** cadastra um repositório remoto.
 
-![img](file:///C:/Users/fe_fa/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
-
 ·     **GIT REMOTE -V** -> lista as listas de repositórios remotos cadastrados.
 
 ·     **GIT PUSH ORIGIN MAIN** -> envia o diretório local para o remoto.
